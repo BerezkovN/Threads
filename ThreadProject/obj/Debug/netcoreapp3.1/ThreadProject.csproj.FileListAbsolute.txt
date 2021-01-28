@@ -1,0 +1,13 @@
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\bin\Debug\netcoreapp3.1\ThreadProject.exe
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\bin\Debug\netcoreapp3.1\ThreadProject.deps.json
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\bin\Debug\netcoreapp3.1\ThreadProject.runtimeconfig.json
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\bin\Debug\netcoreapp3.1\ThreadProject.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\bin\Debug\netcoreapp3.1\ThreadProject.dll
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\bin\Debug\netcoreapp3.1\ThreadProject.pdb
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\obj\Debug\netcoreapp3.1\ThreadProject.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\obj\Debug\netcoreapp3.1\ThreadProject.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\obj\Debug\netcoreapp3.1\ThreadProject.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\obj\Debug\netcoreapp3.1\ThreadProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\obj\Debug\netcoreapp3.1\ThreadProject.dll
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\obj\Debug\netcoreapp3.1\ThreadProject.pdb
+C:\Users\Nikita\source\repos\ThreadProject\ThreadProject\obj\Debug\netcoreapp3.1\ThreadProject.genruntimeconfig.cache
